@@ -1,0 +1,15 @@
+<resources>
+    <string name="hiddenLabel">"You've found an easter egg"</string>
+    <string name="label">Order some fancy food</string>
+    <string name="app_name">TheVeryFirstOneApp</string>
+    <string name="hint1">Enter address</string>
+    <string name="hint2">Enter category</string>
+    <string name="hint3">Enter data</string>
+    <string name="search">Search</string>
+    <string name="hidden">HiddenActivity</string>
+    <string name="buttonText">Send Order</string>
+    <string name="hiddenEmail">Enter email address</string>
+    <string name="hiddenTwitter">Enter @twitter</string>
+    <string name="hiddenPhone">Enter phone number</string>
+    <string name="hiddenChoose">Choose input type</string>
+</resources>
